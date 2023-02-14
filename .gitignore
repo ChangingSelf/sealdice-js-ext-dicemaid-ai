@@ -13,3 +13,4 @@ package-lock.json
 .dev/
 dist/
 dev/
+src/key.ts

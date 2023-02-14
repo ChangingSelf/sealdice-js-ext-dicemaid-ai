@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         模板项目
-// @author       作者名
+// @name         AI骰娘
+// @author       憧憬少
 // @version      1.0.0
-// @description  这是海豹的js扩展模板项目，请自行修改信息
-// @timestamp    1674477074
-// 2023/1/23
+// @description  用来给自己的骰娘接入AI，给骰娘注入灵魂，让她可以和你聊天对话（然而不太聪明的样子）
+// @timestamp    1676349766
+// 2023-2-14 12:42:46
 // @license      MIT
-// @homepageURL  https://github.com/sealdice/sealdice-js-template
+// @homepageURL  
 // ==/UserScript==
