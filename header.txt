@@ -6,5 +6,5 @@
 // @timestamp    1676349766
 // 2023-2-14 12:42:46
 // @license      MIT
-// @homepageURL  
+// @homepageURL  https://github.com/ChangingSelf/sealdice-js-ext-dicemaid-ai
 // ==/UserScript==
